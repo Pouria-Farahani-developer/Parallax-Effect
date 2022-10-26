@@ -6,9 +6,9 @@
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/infinity-slider/)
 
-- 👨‍💻 Developed by [pouria farahani](https://github.com/Pouria-Farahani-developer) and [leila kefayati](https://github.com/leilakf)
+- 👨‍💻 Developed by [pouria farahani](https://github.com/Pouria-Farahani-developer)
 
-- 📆 Created - 2022-10-14
+- 📆 Created - 2022-10-26
 
 - 🤖 Technologies Used - Html , Css , js
 
