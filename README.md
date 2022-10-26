@@ -1,6 +1,6 @@
 # Parallax-Effect
 
-🎞 **Hey , you can use my slide to make your site more attractive**
+🎞 **Hey buddy, you want to see miracles, so click now**
 
 ![image psd](https://user-images.githubusercontent.com/109727844/198118004-e4ec243c-12f5-4cdb-9e05-ae6897616430.jpg)
 
