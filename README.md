@@ -6,7 +6,7 @@
 
 ![image psd (1)](https://user-images.githubusercontent.com/109727844/198118382-58d0e70c-2965-4cc4-a0d9-bf6497c81229.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/infinity-slider/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Parallax-Effect/)
 
 - 👨‍💻 Developed by [pouria farahani](https://github.com/Pouria-Farahani-developer)
 
