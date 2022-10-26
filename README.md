@@ -2,7 +2,7 @@
 
 🧙‍♂️ **Hey buddy, you want to see miracles, so click now**
 
-😈 **Just wait a few moments for the site to load completely**
+😈 **Just wait a few moments for the site to load completely !!**
 
 ![image psd](https://user-images.githubusercontent.com/109727844/198118004-e4ec243c-12f5-4cdb-9e05-ae6897616430.jpg)
 
