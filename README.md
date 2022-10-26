@@ -8,7 +8,7 @@
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Parallax-Effect/)
 
-- 👨‍💻 Developed by [pouria farahani](https://github.com/Pouria-Farahani-developer)
+- 👨‍💻 Developed by Pouria Farahani
 
 - 📆 Created - 2022-10-26
 
