@@ -2,6 +2,8 @@
 
 🧙‍♂️ **Hey buddy, you want to see miracles, so click now**
 
+😈 **Just wait a few moments for the site to load completely**
+
 ![image psd](https://user-images.githubusercontent.com/109727844/198118004-e4ec243c-12f5-4cdb-9e05-ae6897616430.jpg)
 
 ![image psd (1)](https://user-images.githubusercontent.com/109727844/198118382-58d0e70c-2965-4cc4-a0d9-bf6497c81229.jpg)
