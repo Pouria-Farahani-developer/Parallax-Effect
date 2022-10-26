@@ -2,7 +2,7 @@
 
 🎞 **Hey , you can use my slide to make your site more attractive**
 
-![prev](https://user-images.githubusercontent.com/109727844/195934988-498f0e5d-97bb-484e-8772-cbd68bc446b1.jpg)
+![image psd](https://user-images.githubusercontent.com/109727844/198118004-e4ec243c-12f5-4cdb-9e05-ae6897616430.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/infinity-slider/)
 
