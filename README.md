@@ -1,6 +1,6 @@
 # Parallax-Effect
 
-🧙‍♂️ **Hey buddy, you want to see miracles, so click now**
+🧙‍♂️ **Hey buddy, you want to see miracles, so click now!**
 
 😈 **Just wait a few moments for the site to load completely !!**
 
